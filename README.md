@@ -1,2 +1,2 @@
 # Heart_diseases_Prediction
-Diabetes Prediction Using Logistic Regression Model
+Heart disease prediction using logistic regression. The notebook trains and evaluates a model using `heart_disease_data.csv`.
